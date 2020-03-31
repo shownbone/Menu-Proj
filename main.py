@@ -1,6 +1,5 @@
 # Shoshone Smith
 # Most recent update: 02/04/2020
-# What needs to be fixed --- Any finishing touches
 
 menu = {}
 menu['1'] = '1 - Add user'
