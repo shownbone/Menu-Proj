@@ -1,13 +1,10 @@
-# Shoshone Smith
-# Most recent update: 02/04/2020
+# Most recent update: 04/18/2020
 
 menu = {}
 menu['1'] = '1 - Add user'
 menu['2'] = '2 - Remove user'
 menu['3'] = '3 - Find user'
 menu['4'] = '4 - Exit'
-
-# ****NOTE - NEED TO CHANGE THE INPUTS SO THAT THE USER CAN ONLY INPUT VALID INFO FOR THE RELEVANT VALUE TYPE
 
 all_users = []
 
